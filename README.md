@@ -4,7 +4,10 @@
 
 I'm 26 years old, JavaScript Developer. I love work with TypeScript on both sides - frontend and backend.  My favorite technologies are React, NodeJS, Express, Styled-components, Docker 💙. Still learning and discovering new stuff! 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krystian-mateusiak/)](https://www.linkedin.com/in/krystian-mateusiak/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusiakkrystian@gmail.com)](mailto:mateusiakkrystian@gmail.com)
 
 ## Tools 
 
