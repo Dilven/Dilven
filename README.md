@@ -9,6 +9,8 @@ I'm 26 years old, JavaScript Developer. I love work with TypeScript on both side
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krystian-mateusiak/)](https://www.linkedin.com/in/krystian-mateusiak/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusiakkrystian@gmail.com)](mailto:mateusiakkrystian@gmail.com)
 
+![!](https://github.com/Dilven/Dilven/raw/master/Dog.gif)
+
 ## Tools 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Dilven/)](https://github.com/Dilven/)
@@ -29,7 +31,6 @@ I'm 26 years old, JavaScript Developer. I love work with TypeScript on both side
 
 ## Summary 
 ![](https://github-readme-stats.vercel.app/api?username=Dilven&show_icons=true)
-![](https://media.giphy.com/media/7XuKKmGiaxXe6EjOj4/giphy.gif)
 
 <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/Dilven&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
