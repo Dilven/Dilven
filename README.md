@@ -29,6 +29,10 @@ I'm 26 years old, JavaScript Developer. I love work with TypeScript on both side
 
 ## Summary 
 ![](https://github-readme-stats.vercel.app/api?username=Dilven&show_icons=true)
+
+<a target="_blank" href="https://github.com/sidbelbase/sidbelbase/">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/Dilven&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
+</a>
 <!--
 **Dilven/Dilven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
