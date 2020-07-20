@@ -4,7 +4,7 @@
 
 I'm 26 years old, JavaScript Developer. I love work with TypeScript on both sides - frontend and backend.  My favorite technologies are React, NodeJS, Express, Styled-components, Docker 💙. Still learning and discovering new stuff! 
 
-- 📫 How to reach me: 
+## How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krystian-mateusiak/)](https://www.linkedin.com/in/krystian-mateusiak/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusiakkrystian@gmail.com)](mailto:mateusiakkrystian@gmail.com)
@@ -26,6 +26,9 @@ I'm 26 years old, JavaScript Developer. I love work with TypeScript on both side
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/Dilven/)
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/Dilven/)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/Dilven/)
+
+## Summary 
+![](https://github-readme-stats.vercel.app/api?username=Dilven&show_icons=true)
 <!--
 **Dilven/Dilven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
