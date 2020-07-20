@@ -11,7 +11,7 @@ I'm 26 years old, JavaScript Developer. I love work with TypeScript on both side
 
 ## Tools 
 
-| [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Dilven/)](https://github.com/Dilven/)
+|( [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Dilven/)](https://github.com/Dilven/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Dilven/)](https://github.com/Dilven/)
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/Dilven/)
 
@@ -25,7 +25,7 @@ I'm 26 years old, JavaScript Developer. I love work with TypeScript on both side
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Dilven/)](https://github.com/Dilven/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/Dilven/)
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/Dilven/)
-[![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/Dilven/) | ![Dog watching you](https://github.com/Dilven/Dilven/raw/master/Dog.gif) |
+[![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/Dilven/)) | ![Dog watching you](https://github.com/Dilven/Dilven/raw/master/Dog.gif) |
 
 ## Summary 
 ![](https://github-readme-stats.vercel.app/api?username=Dilven&show_icons=true)
