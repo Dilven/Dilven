@@ -2,7 +2,7 @@
 
 ![Image of Dilven](https://github.com/Dilven/Dilven/blob/master/Dilven.png)
 
-I'm 28 years old, JavaScript Developer. I love work with TypeScript on both sides - frontend and backend.  My favorite technologies are React, NodeJS, Express, Styled-components, Docker 💙. Still learning and discovering new stuff! 
+I'm 29 years old, JavaScript Developer. I love work with TypeScript on both sides - frontend and backend.  My favorite technologies are React, NodeJS, Express, Styled-components, Docker 💙. Still learning and discovering new stuff! 
 
 ## How to reach me: 
 
